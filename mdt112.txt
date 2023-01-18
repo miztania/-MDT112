@@ -2,7 +2,11 @@ Hello World!
 
 Media technology
 
+<<<<<<< HEAD
 edited
 
 merched
 ddddd
+=======
+edited
+>>>>>>> mergeBranch
