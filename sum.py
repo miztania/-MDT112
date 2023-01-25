@@ -1,6 +1,8 @@
-count = 1
-for i in range(0,101):
-    if(i%2 == 0):
-        count = count+1
+print("input 1 : ")
+i = float(input())
+print("input 2 : ")
+b = float(input())
 
-print(count)
+ans  = 0.5*i*b
+
+print(ans)
